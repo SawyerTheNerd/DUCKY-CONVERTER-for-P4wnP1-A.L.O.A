@@ -69,7 +69,7 @@ Thanks
 **to install :**
 
 ```
-git clone https://github.com/DuckyTools/DUCKY-CONVERTER-for-P4wnP1-A.L.O.A
+git clone https://github.com/SawyerTheNerd/DUCKY-CONVERTER-for-P4wnP1-A.L.O.A
 
 cd DUCKY-CONVERTER-for-P4wnP1-A.L.O.A
 
